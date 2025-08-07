@@ -42,3 +42,4 @@ def solution(video_len, pos, op_start, op_end, commands):
 
 # ------------------------------------------
 # 단순한 문자열 파싱문제. 발생할 수 있는 모든 예외를 처리해줘야함.
+# .split() 활용.
