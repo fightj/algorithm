@@ -60,3 +60,5 @@ def solution(clothes):
 # }
 
 # print(students["A"]["name"])  # "민준"
+
+# 딕셔너리 관련 함수에 대해서 더 학습을 해야할듯!
