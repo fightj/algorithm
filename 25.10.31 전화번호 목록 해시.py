@@ -36,3 +36,5 @@ def solution(phone_book):
         if phone_book[i+1].startswith(phone_book[i]):
             return False
     return True
+
+# 추후 이 코드를 한번 더 구현해봐야할듯
